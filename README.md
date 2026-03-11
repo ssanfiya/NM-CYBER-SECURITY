@@ -1,7 +1,7 @@
 ## Project Document
 
 Google Drive Document:
-[https://docs.google.com/document/d/1zb3WteNHevYtJWqP9UriedHxR9F5wfZi/edit](https://docs.google.com/document/d/1F0O1KQLye_cq5VDfYcAZmLRO4kyeh8Yz9p0RF0K_Kt4/edit?usp=sharing)
+https://docs.google.com/document/d/149z4Oc1d5E19rUW2vOT8TpBuUnVGyVuEbkCGWn6Ot2g/edit?usp=sharing
 ## Project Document
 
 You can access the full document here:
